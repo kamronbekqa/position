@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"name": "vs code",
+		"path": "../.."
+	},
+	{
+		"name": "душанба",
+		"path": "../../../душанба"
+	},
+	{
+		"name": "19-dars",
+		"path": "../../../19-dars"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "vs code"
+  }
+}
